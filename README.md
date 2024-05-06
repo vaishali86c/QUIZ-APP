@@ -1,8 +1,7 @@
 # QUIZ-APP
 
-### Quiz Web Application focuses on building a simple quiz application with user authentication using the
-### MERN stack (MongoDB/MySQL, Express.js, React.js, and Node.js). It incorporates fullCRUD operations with 
-### some intriguing functionalities.
+### Quiz Web Application focuses on building a simple quiz application with user authentication using the MERN stack (MongoDB/MySQL, Express.js, React.js, and Node.js). It incorporates ### fullCRUD operations with some intriguing functionalities.
+
 
 
 ## Admin 
