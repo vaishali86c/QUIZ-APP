@@ -1,20 +1,20 @@
 const mongoose = require("mongoose");
 
 const reportSchema = new mongoose.Schema(
-{
+  {
     user: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "users",
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "users",
     },
     exam: {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "exams",
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "exams",
     },
     result: {
-        type: Object,
-        required: true,
+      type: Object,
+      required: true,
     },
-},
+  },
   {
     timestamps: true,
   }
