@@ -1,8 +1,6 @@
 # QUIZ-APP
 
-### Quiz Web Application focuses on building a simple quiz application with user authentication using the MERN stack (MongoDB/MySQL, Express.js, React.js, and Node.js). It incorporates ### fullCRUD operations with some intriguing functionalities.
-
-
+### Quiz Web Application focuses on building a simple quiz application with user authentication using the MERN stack (MongoDB/MySQL, Express.js, React.js, and Node.js). It incorporates  full CRUD operations with some intriguing functionalities.
 
 ## Admin 
 
@@ -42,3 +40,9 @@ score.
 - Authentication: JSON Web Tokens (JWT) for user authentication.
 - API Endpoints: Express routes to handle authentication, exam management, and result reporting.
 - Security: bcrypt for password hashing.
+
+## Installation steps:
+
+
+
+
