@@ -43,6 +43,20 @@ score.
 
 ## Installation steps:
 
+commands :
+
+- clone the repository: 
+- git clone "repository-url"
+- Backend Installation:
+- cd server
+- npm install
+- Start the Development server for Backend:
+- npm start
+- Frontend Installation:
+- cd client
+- npm install
+- Start the Development Server for Frontend:
+- npm start
 
 
 
