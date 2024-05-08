@@ -45,18 +45,29 @@ score.
 
 commands :
 
-- clone the repository: 
-- git clone "repository-url"
+- clone the repository:
+  
+  ```git clone "repository-url" ```
+  
 - Backend Installation:
-- cd server
-- npm install
+ 
+  ```cd server```
+  
+  ``` npm install```
+  
 - Start the Development server for Backend:
-- npm start
+  
+  ```npm start```
+  
 - Frontend Installation:
-- cd client
-- npm install
+  
+  ```cd client```
+  
+  ``` npm install```
+
 - Start the Development Server for Frontend:
-- npm start
+  
+  ```npm start```
 
 
 
